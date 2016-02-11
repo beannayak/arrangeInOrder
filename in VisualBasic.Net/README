@@ -1,0 +1,6 @@
+Project is created in visual studio 2008
+
+If you are only trying to check the game 
+try bin\release\windowsappliation3.exe
+you need dotnetframework 3.5 to run the executable
+
